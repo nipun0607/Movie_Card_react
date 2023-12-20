@@ -1,0 +1,24 @@
+[{
+    "moviename":"Bright",
+    "year":2017,
+    "actorName":"David Iyer",
+    "poster":"https://m.media-amazon.com/images/M/MV5BMTcyNzk5NDg1Nl5BMl5BanBnXkFtZTgwNTM5MDQxNDM@._V1_.jpg",
+    "time":"117 min",
+    "type":"Action,Crime,Fantasy",
+    "about":"Set in a world where fantasy creatures live side by side with humans.A human Cop is forced to work with an Orc to find a weapon everyone is prepare to kill for it",
+    "img":"https://deadline.com/wp-content/uploads/2017/11/bright-feature.jpg?w=1024"
+    
+
+
+},
+{
+    "moviename":"Tom Rider",
+    "year":2018,
+    "actorName":"Roar Uthaug",
+    "poster":"https://i.etsystatic.com/15375993/r/il/174b82/1447742192/il_fullxfull.1447742192_fd89.jpg",
+    "time":"125 min",
+    "type":"Action,Fantasy",
+    "about":"Lara Croft,the fiercely independent daughter of a missing adventure,must push herself beyond her limits when she find herself on the island where her father disappear",
+    "img":"https://c8.alamy.com/comp/M43PR9/tomb-raider-2018-mgm-film-with-alicia-vikander-M43PR9.jpg"
+}
+]
